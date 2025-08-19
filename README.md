@@ -98,7 +98,7 @@ Lógica Compartida: Ambos componentes (``BootstrapTagInput`` y ``MaterialTagInpu
 Estilos y Animaciones: Los estilos globales y las animaciones ``(@keyframes)`` se definen en una etiqueta ``<style>`` dentro del componente HomePage para mantener todo encapsulado.
 
 ### 📄 Licencia
-Este proyecto se distribuye bajo la Licencia MIT. Copyright (c) 2024 - Torrente Dev SASPor la presente se concede permiso, libre de cargos, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), para comerciar con el Software sin restricción, incluyendo sin limitación los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia, y/o venta de copias del Software, y para permitir a las personas a las que se les proporcione el Software que lo hagan, con sujeción a las siguientes condiciones: 
+Este proyecto se distribuye bajo la Licencia MIT. Copyright (c) 2024 - Torrente Dev SAS Por la presente se concede permiso, libre de cargos, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), para comerciar con el Software sin restricción, incluyendo sin limitación los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia, y/o venta de copias del Software, y para permitir a las personas a las que se les proporcione el Software que lo hagan, con sujeción a las siguientes condiciones: 
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o porciones sustanciales del Software.
 
